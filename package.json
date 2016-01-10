@@ -1,0 +1,13 @@
+{
+  "name": "ease-lib",
+  "version": "0.0.1",
+  "description": "Easing functions",
+  "main": "index.js",
+  "author": "Matt McFarland",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT"
+}
